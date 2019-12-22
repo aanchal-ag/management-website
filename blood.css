@@ -1,0 +1,35 @@
+body
+{
+	background-color: black;
+	background-image: url("https://www.fidson.com/wp-content/uploads/2019/06/blood-donation-2.jpg");
+	background-repeat: no-repeat;
+	background-position: middle;
+	background-attachment: scroll;
+}
+h2
+{
+
+	padding-left: 70%;
+	color:#a32222 ;
+	font-size: 2.5em;
+	font-family: courier header;  
+	border-top: 0.5em;
+}
+
+h1
+{
+	width: 50%;
+	padding-left: 30%;
+	color:#a32222 ;
+	font-size: 7.5em;
+	font-family: courier header;  
+	border-top: 2.5em;
+}
+p
+{
+	padding-left: 50%;
+	color:#a32222 ;
+	font-size: 3.5em;
+	font-family: courier body;  
+	border-top: 7.5em;
+}
