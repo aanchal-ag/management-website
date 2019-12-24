@@ -1,3 +1,12 @@
+header {
+  background-color: black;
+  text-align: right;
+  padding: 2px;
+  font-size: 1.3em;
+	font-family: courier header;
+	border-right: 5px;
+
+}
 body
 {
 	background-color: black;

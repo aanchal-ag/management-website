@@ -1,0 +1,29 @@
+body
+{
+	background-color:#889493;
+	color:#a32222 ;
+	font-size: 1.5em;
+	font-family: courier header;
+}
+input
+{
+	border:3px solid #555;
+ 	width: 350px;
+ 	padding: 10px 5px;
+ 	margin: 8px 0;
+ 	box-sizing: border-box;
+}
+button
+{
+	width: 300px;
+	padding: 12px 25px;
+}
+form
+{
+	padding-left:30%;
+	padding-top: 10%;
+	margin:30px 30px 30px 30px;
+	color: #0b0d0d;
+	font-weight:bold;
+	border:2px black;
+}
